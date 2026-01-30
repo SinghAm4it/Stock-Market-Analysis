@@ -19,7 +19,7 @@ This dashboard helps answer key analytical questions such as:
 
 ---
 
-## 🧾 Dataset Details
+## Dataset Details
 The dataset contains daily price and trading activity metrics including:
 
 - `DATE`
@@ -60,7 +60,7 @@ The dashboard displays key headline metrics:
 - **Avg Closing Price**: Average daily close price for selected period  
 - **Total Volume**: Total shares traded during selected period  
 
-📌 **Meaning:**  
+**Meaning:**  
 These KPIs provide a quick “stock health snapshot”:
 - whether stock traded closer to its highs or lows
 - whether price is stable or fluctuating
@@ -227,7 +227,7 @@ Here monthyl average close was frequently below monthly average VWAP thus it can
 
 ---
 
-# 🛠 Tools & Techniques Used
+# Tools & Techniques Used
 - Power BI Desktop
 - Power Query (data cleaning, types, derived time fields)
 - DAX measures for:
