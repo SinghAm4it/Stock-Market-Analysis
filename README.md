@@ -223,7 +223,7 @@ VWAP vs Close chart indicates buying vs selling pressure.
 Conclusion:
 If close is often above VWAP, buying strength exists.
 If close frequently below VWAP, selling pressure exists.
-Here monthyl average close was frequently below monthly average VWAP thus it can concluded that still there is selling pressure.
+Here monthly average close was frequently below monthly average VWAP thus it can concluded that still there is selling pressure.
 
 ---
 
